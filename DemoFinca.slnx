@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DemoFinca.Api/DemoFinca.Api.csproj" Id="ec5edd33-374f-45cb-bb37-5c7368b598e2" />
+  <Project Path="DemoFinca.Datos/DemoFinca.Datos.csproj" Id="9f4ec2ed-f47e-4bd3-abae-b745dbad1f79" />
+  <Project Path="DemoFinca.Dominio/DemoFinca.Dominio.csproj" Id="16a41192-a119-42a1-8a76-b4c5051e694b" />
+  <Project Path="DemoFinca.Intercambio/DemoFinca.Intercambio.csproj" Id="aa6a86b5-b952-40c9-a89d-45b73e68d145" />
+  <Project Path="DemoFinca.Negocio/DemoFinca.Negocio.csproj" Id="800ca6d9-ab12-4a3b-bf49-5e09bed4f89c" />
+</Solution>
